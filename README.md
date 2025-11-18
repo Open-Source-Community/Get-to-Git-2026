@@ -6,15 +6,9 @@
 - How to Contribute in open source projects.
 
 - **Check Slides:**
----------
-## Contributing  
-- We encourage you to contribute in this repo and solving [issues](https://github.com/hadeer-r/Get-To-Git/issues) and exploring contributions.
 
-- check : [CONTRIBUTING](CONTRIBUTING.md)
-
------
 ## Contents
 - [Git basic commands](Git.md)
-- [session1](slides/Get%20to%20Git%20-%20Session%201.pdf)
-- [session2](slides/Get%20To%20Git%20-%20Session%202.pdf)
+- [session1](./session-1/Get%20to%20Git%20-%20Session%201%20-%20Akayiz.pdf)
+- [session2]()
 --------
