@@ -12,7 +12,7 @@
 ## Contents:
 - [Git basic commands](Git.md)
 - [session1](./session-1/Get%20to%20Git%20-%20Session%201%20-%20Akayiz.pdf)
-- [session2]()
+- [session2](Session%202)
 --------
 
 ## Get-To-Git Playlist:
